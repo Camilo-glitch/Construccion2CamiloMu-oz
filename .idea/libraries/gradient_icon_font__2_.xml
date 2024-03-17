@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gradient-icon-font (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/veterinaria/externalLibraries/gradient-icon-font.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/veterinaria/externalLibraries/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/veterinaria/externalLibraries/TimingFramework-0.55.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
